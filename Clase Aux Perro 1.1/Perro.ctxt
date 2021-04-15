@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Perro
+comment0.text=\ @author\ (Sn_efa)\ \r\n\ @version\ (1.0.1)\r\n
+comment1.params=Nombre\ Tama\u00F1o\ Edad\ Color
+comment1.target=Perro(java.lang.String,\ double,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=int\ getEdad()
+comment11.params=Edad
+comment11.target=void\ setEdad(int)
+comment2.params=
+comment2.target=java.lang.String\ Jugar()
+comment3.params=
+comment3.target=java.lang.String\ Dormir()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=Nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getColor()
+comment7.params=Color
+comment7.target=void\ setColor(java.lang.String)
+comment8.params=
+comment8.target=double\ getTama\u00F1o()
+comment9.params=Tama\u00F1o
+comment9.target=void\ setTama\u00F1o(int)
+numComments=12
